@@ -1,0 +1,34 @@
+@relation bank
+
+@attribute age numeric
+@attribute job {admin.,technician,services,management,retired,blue-collar,unemployed,entrepreneur,housemaid,unknown,self-employed,student}
+@attribute marital {married,single,divorced}
+@attribute education {secondary,tertiary,primary,unknown}
+@attribute default {no,yes}
+@attribute balance numeric
+@attribute housing {yes,no}
+@attribute loan {no,yes}
+@attribute contact {unknown,cellular,telephone}
+@attribute day numeric
+@attribute month {may,jun,jul,aug,oct,nov,dec,jan,feb,mar,apr,sep}
+@attribute duration numeric
+@attribute campaign numeric
+@attribute pdays numeric
+@attribute previous numeric
+@attribute poutcome {unknown,other,failure,success}
+@attribute deposit {yes,no}
+
+@data
+59,admin.,married,secondary,no,2343,yes,no,unknown,5,may,1042,1,-1,0,unknown,?
+56,admin.,married,secondary,no,45,no,no,unknown,5,may,1467,1,-1,0,unknown,?
+41,technician,married,secondary,no,1270,yes,no,unknown,5,may,1389,1,-1,0,unknown,?
+55,services,married,secondary,no,2476,yes,no,unknown,5,may,579,1,-1,0,unknown,?
+54,admin.,married,tertiary,no,184,no,no,unknown,5,may,673,2,-1,0,unknown,?
+42,management,single,tertiary,no,0,yes,yes,unknown,5,may,562,2,-1,0,unknown,?
+56,management,married,tertiary,no,830,yes,yes,unknown,6,may,1201,1,-1,0,unknown,?
+60,retired,divorced,secondary,no,545,yes,no,unknown,6,may,1030,1,-1,0,unknown,?
+37,technician,married,secondary,no,1,yes,no,unknown,6,may,608,1,-1,0,unknown,?
+28,services,single,secondary,no,5090,yes,no,unknown,6,may,1297,3,-1,0,unknown,?
+38,admin.,single,secondary,no,100,yes,no,unknown,7,may,786,1,-1,0,unknown,?
+30,blue-collar,married,secondary,no,309,yes,no,unknown,7,may,1574,2,-1,0,unknown,?
+29,management,married,tertiary,no,199,yes,yes,unknown,7,may,1689,4,-1,0,unknown,?
