@@ -1,0 +1,14 @@
+age,job,marital,education,default,balance,housing,loan,contact,day,month,duration,campaign,pdays,previous,poutcome,deposit
+27,technician,single,tertiary,no,2781,yes,no,cellular,24,may,168,1,389,1,failure,?
+51,blue-collar,married,primary,no,541,no,no,cellular,11,aug,663,3,-1,0,unknown,?
+38,management,married,unknown,no,3576,no,no,cellular,26,may,579,1,-1,0,unknown,?
+28,management,single,tertiary,no,2725,no,no,cellular,16,jun,292,1,504,1,failure,?
+25,student,single,secondary,no,2354,no,no,cellular,5,feb,226,7,-1,0,unknown,?
+37,services,married,secondary,no,775,no,no,cellular,14,aug,150,2,-1,0,unknown,?
+38,blue-collar,married,secondary,no,622,yes,no,unknown,21,may,611,2,-1,0,unknown,?
+37,technician,single,secondary,no,4,no,no,cellular,11,aug,933,1,-1,0,unknown,?
+34,management,single,tertiary,no,5,no,no,cellular,18,aug,370,2,-1,0,unknown,?
+37,technician,single,tertiary,no,3943,no,no,cellular,6,apr,1138,2,138,1,failure,?
+76,retired,divorced,primary,no,802,no,no,cellular,9,mar,241,1,181,5,success,?
+48,management,married,tertiary,no,2351,no,no,cellular,15,sep,150,1,105,3,success,?
+49,technician,divorced,tertiary,no,1807,yes,no,cellular,12,mar,229,1,-1,0,unknown,?
